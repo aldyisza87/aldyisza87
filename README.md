@@ -1,15 +1,15 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Isza - aka [Aldy Isza](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently working as Flutter eng
+- 🌱 I’m currently learning Dart and Php
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: aldyisza87@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Pelita Bangsa](https://web.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Bekasi `2019-2024`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
