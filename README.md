@@ -3,27 +3,15 @@
 - 🔭 I’m currently working as Flutter Engineer
 - 🌱 I’m currently learning Dart 
 - 👯 I’m looking to collaborate as UI/UX Designer
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🤔 I’m looking for suggest for Flutter Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: aldyisza87@gmail.com
 
 ## Education:
 
 #### 1. [Universitas Pelita Bangsa](https://web.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Bekasi `2019-2024`
-
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | Automotive Engineering | Kebumen `2013-2016`
+#### 2. [SMK Taman Karya Madya Teknik Kebumen](https://tamankaryakbm.com) | Automotive Engineering | Kebumen `2013-2016`
  
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
@@ -53,4 +41,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/aldyisza87
