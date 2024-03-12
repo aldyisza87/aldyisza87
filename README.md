@@ -1,8 +1,8 @@
-# Hi there, I'm Isza - aka [Aldy Isza](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Isza - aka [Aldy Isza](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ) 👋
 ## About me:
-- 🔭 I’m currently working as Flutter eng
-- 🌱 I’m currently learning Dart and Php
-- 👯 I’m looking to collaborate as Data Automation and Analyst
+- 🔭 I’m currently working as Flutter Engineer
+- 🌱 I’m currently learning Dart 
+- 👯 I’m looking to collaborate as UI/UX Designer
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: aldyisza87@gmail.com
@@ -10,12 +10,9 @@
 ## Education:
 
 #### 1. [Universitas Pelita Bangsa](https://web.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Bekasi `2019-2024`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
 
+ #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | Automotive Engineering | Kebumen `2013-2016`
+ 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
