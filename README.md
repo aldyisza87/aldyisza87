@@ -1,4 +1,4 @@
-# Hi there, I'm Isza - aka [Aldy Isza](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ) 👋
+# Hi there, I'm Isza - aka [Mukhamad Aldi Isza](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ) 👋
 ## About me:
 - 🔭 I’m currently working as Flutter Engineer
 - 🌱 I’m currently learning Dart 
