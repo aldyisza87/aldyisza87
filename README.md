@@ -28,7 +28,7 @@
 ### Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ)
-[//]:[![Twitter](https://img.shields.io/twitter/follow/vincentwwidyan?style=social)](https://twitter.com/vincentwwidyan)
+//[![Twitter](https://img.shields.io/twitter/follow/vincentwwidyan?style=social)](https://twitter.com/vincentwwidyan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aldi-isza)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://instagram.com/aldyisza87)
 
