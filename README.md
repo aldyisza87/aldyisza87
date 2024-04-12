@@ -14,12 +14,15 @@
  
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br />
 <br />
@@ -27,10 +30,9 @@
 ---
 ### Connect with me:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ)
-//[![Twitter](https://img.shields.io/twitter/follow/vincentwwidyan?style=social)](https://twitter.com/vincentwwidyan)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aldi-isza)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://instagram.com/aldyisza87)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/aldyisza_/)
 
 
 
