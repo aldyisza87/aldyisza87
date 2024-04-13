@@ -1,18 +1,21 @@
 # Hi there, I'm Isza - aka [Mukhamad Aldi Isza](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ) 👋
 ## About me:
-- 🔭 I’m currently working as Flutter Engineer
-- 🌱 I’m currently learning Dart 
+- 🎓 I'm a recent graduate in Computer Science.
+- 🔭 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate as UI/UX Designer
 - 🤔 I’m looking for suggest for Flutter Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: aldyisza87@gmail.com
+<br />
 
+---
 ## Education:
 
 #### 1. [Universitas Pelita Bangsa](https://web.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Bekasi `2019-2024`
 #### 2. [SMK Taman Karya Madya Teknik Kebumen](https://tamankaryakbm.com) | Automotive Engineering | Kebumen `2013-2016`
- 
-### Languages and Tools:
+ <br />
+
+---
 
 ### Languages and Tools:
 
@@ -26,8 +29,6 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange)](https://www.postman.com/)
 [![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=white&labelColor=gray)](https://tableplus.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=purple)](https://www.figma.com/)
-
-<br />
 <br />
 
 ---
@@ -38,6 +39,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/aldyisza_/)
 
 
-
-
-[webdev]: https://github.com/aldyisza87
