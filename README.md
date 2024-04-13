@@ -1,15 +1,19 @@
 # Hi there, I'm Isza - aka [Mukhamad Aldi Isza](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ) 👋
 ## About me:
-- 🎓 I'm a recent graduate in Computer Science.
-- 🔭 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate as UI/UX Designer
+
+
+- 🎓 I'm a recent graduate in Informatics Engineering
+- 🔭 I’m currently learn flutter bloc and use it to build a software 
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for suggest for Flutter Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: aldyisza87@gmail.com
+- 💬 Ask me about Flutter and Dart
+- ☕ my hobby is Photography
+- ⚡ Fun fact: sharing is magic 🐰
 <br />
 
 ---
 ## Education:
+
 
 #### 1. [Universitas Pelita Bangsa](https://web.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Bekasi `2019-2024`
 #### 2. [SMK Taman Karya Madya Teknik Kebumen](https://tamankaryakbm.com) | Automotive Engineering | Kebumen `2013-2016`
@@ -18,6 +22,7 @@
 ---
 
 ### Languages and Tools:
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue)](https://flutter.dev/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=orange)](https://laravel.com/)
@@ -33,6 +38,7 @@
 
 ---
 ### Connect with me:
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UCAwwUP2NxjV9U5e9nSw2gwQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aldi-isza)
